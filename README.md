@@ -1,3 +1,5 @@
+**Português** | [English](README-EN.md)
+
 # GeoNode Installer
 
 Instalador automatizado do GeoNode com Docker, configuração por arquivo `.env`, HTTPS opcional e ferramentas para manutenção de ambientes de cursos e testes.
